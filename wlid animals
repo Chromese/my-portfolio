@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wild animals</title>
+</head>
+<body>
+    <!--lions-->
+    <h1>Lions</h1>
+    <p>The lion is a wild animal and is often called “the king of the jungle.”
+It lives mainly in Africa, in grasslands and savannas.
+<br>
+Lions are strong and powerful animals.
+Male lions have a big mane, while females do not.</p>
+<img src="lions.img.jpg">
+<!--kangoroos-->
+<h1>kangoroos</h1>
+<p>The kangaroo is a wild animal.
+It lives in Australia.
+<br>
+Kangaroos are marsupials, which means the female has a pouch to carry her baby.
+The baby kangaroo is called a joey.</p>
+<img src="kangoru.img.jpg">
+<!--tiger-->
+<h1>tiger</h1>
+<p>TThe tiger is a big wild cat that lives mainly in Asia.
+<br>
+Tigers have orange fur with black stripes, which helps them hide in the forest.
+<br>
+They are carnivores, which means they eat meat like deer and wild pigs.
+<br>
+Tigers usually live alone and are very strong hunters.</p>
+<img src="tiger.webp" width="250">
+</body>
+</html>
