@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>programme de zoo</title>
+        
+        <body>
+             <h1>Programme de jour</h1>
+             <!--PROGRAMME IN MORNING-->
+             <ul>
+                <li>Feeding the animals</li>
+                <img src="istockphoto-92210690-612x612" alt="image animals">
+                <li>viste guidee</li>
+                <img src="visteguide.img">
+                <li>jeux educative</li>
+                <img src="jeux educatif.img">
+                <li>activite de sensabilisation</li>
+                <img src="sensabilisation.img">
+             </ul>
+
+        </body>
+    </head>
+</html>
